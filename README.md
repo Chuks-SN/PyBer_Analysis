@@ -10,7 +10,7 @@ The main task is to summarize how the data differs by city type and how those di
 ### Results
 
 ##### Data Summary 
-Link: https://github.com/Chuks-SN/PyBer_Analysis/blob/5e92b33da82e6d4e74335244e2d8d2ea5f8eae80/Resources/Summary%20Dataframe.png
+Link: https://github.com/Chuks-SN/PyBer_Analysis/blob/e1ae1e46403bc577ef1f1e3257f8a584c1da80aa/Analysis/Summary%20Dataframe.png
 
 From the dataframe link above, the Urban city type had the highest number of total rides, drivers and fares followed by the Suburban and then the rural city type. The Rural cities had ethe highest average fare per ride and per driver, followed by the Suburban and then the Urban. This means that, on the average, PyBer rides cost more in the rural cities and drivers in these cities earn more. The comapny makes more money per rider in the rural cities. Additionally, there's more total revenue generation in the Urban cities because they have the most rides and the highest number of drivers, hence a much higher total fare generated. 
 
