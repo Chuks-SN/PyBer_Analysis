@@ -15,7 +15,7 @@ Link: https://github.com/Chuks-SN/PyBer_Analysis/blob/5e92b33da82e6d4e74335244e2
 From the dataframe link above, the Urban city type had the highest number of total rides, drivers and fares followed by the Suburban and then the rural city type. The Rural cities had ethe highest average fare per ride and per driver, followed by the Suburban and then the Urban. This means that, on the average, PyBer rides cost more in the rural cities and drivers in these cities earn more. The comapny makes more money per rider in the rural cities. Additionally, there's more total revenue generation in the Urban cities because they have the most rides and the highest number of drivers, hence a much higher total fare generated. 
 
 ##### Line Chart
-Link: https://github.com/Chuks-SN/PyBer_Analysis/blob/467c864635486ac9347716543c9d6c820347b7cd/Resources/Total%20fare%20by%20city%20type.png
+Link: https://github.com/Chuks-SN/PyBer_Analysis/blob/5ad8970ae2359a1408553f8d666372df4eb94888/Analysis/PyBer_fare_summary.png
 
 The chart compares the fares generated per week in the different city types over a specific period of time; January through April. It is clear from the chart in the above that the Urban city type had the highest total fare per week for every week, and there was an overall upward trend over this time period. The Suburban city type came in second in the rankings and the Rural city type had the least fares for this period. There was a spike for all the city types in the third week of Februrary. The month of April saw a decline for both the Rural and Urban city types, however, there was a sharp growth for the Suburban city type. At the end of this time period, overall growth for the Rural city type was the lowest. 
 
